@@ -31,12 +31,18 @@ class Thing {
 
         grman::WidgetImage m_image2;
         grman::WidgetButton m_bouton2;
+        grman::WidgetImage m_image2bis;
+        grman::WidgetButton m_bouton2bis;
 
         grman::WidgetImage m_image3;
         grman::WidgetButton m_bouton3;
+        grman::WidgetImage m_image3bis;
+        grman::WidgetButton m_bouton3bis;
 
         grman::WidgetImage m_image4;
         grman::WidgetButton m_bouton4;
+        grman::WidgetImage m_image4bis;
+        grman::WidgetButton m_bouton4bis;
 
         /// Les Widgets qui constitueront l'interface de l'objet
         //grman::WidgetImage m_img;            // Sera l'arbre à droite

@@ -32,11 +32,11 @@ Thing::Thing()
     m_bouton1.set_frame_dim(150,150);
     m_image1.set_pic_name("Tamere1.bmp");
 
-    /*m_top_box.add_child(m_bouton2);
+    m_top_box.add_child(m_bouton2);
     m_bouton2.add_child(m_image2);
     m_bouton2.set_frame_pos(10,210);
     m_bouton2.set_frame_dim(150,150);
-    m_image2.set_pic_name("Tamere2.bmp");*/
+    m_image2.set_pic_name("Tamere2.bmp");
 
     m_top_box.add_child(m_bouton3);
     m_bouton3.add_child(m_image3);
@@ -50,15 +50,6 @@ Thing::Thing()
     m_bouton4.set_frame_dim(150,150);
     m_image4.set_pic_name("Tamere4.bmp");
 
-    if (m_bouton1.clicked())
-    {
-
-        /*m_top_box.add_child(m_bouton1bis);
-        m_bouton1bis.add_child(m_image1bis);
-        m_bouton1bis.set_frame_pos(10,210);
-        m_bouton1bis.set_frame_dim(150,150);
-        m_image1bis.set_pic_name("Tamere1bis.bmp");*/
-    }
 
     //m_top_box.set_bg_color(GRISCLAIR);
     //m_top_box.set_moveable();
@@ -142,6 +133,47 @@ void Thing::update()
     /// Si tous les widgets dépendants de l'objet sont dans une top box
     /// alors ce seul appel suffit (la propagation d'updates se fait ensuite automatiquement)
     m_top_box.update();
+
+     if (m_bouton1.clicked())
+    {
+        m_top_box.add_child(m_bouton1bis);
+        m_bouton1bis.add_child(m_image1bis);
+        m_bouton1bis.set_frame_pos(10,210);
+        m_bouton1bis.set_frame_dim(150,150);
+        m_image1bis.set_pic_name("Tamere1bis.bmp");
+    }
+
+    if (m_bouton2.clicked())
+    {
+        m_top_box.add_child(m_bouton2bis);
+        m_bouton1bis.add_child(m_image2bis);
+        m_bouton1bis.set_frame_pos(10,210);
+        m_bouton1bis.set_frame_dim(150,150);
+        m_image1bis.set_pic_name("Tamere2bis.bmp");
+    }
+
+ if (m_bouton3.clicked())
+    {
+        m_top_box.add_child(m_bouton3bis);
+        m_bouton1bis.add_child(m_image3bis);
+        m_bouton1bis.set_frame_pos(10,210);
+        m_bouton1bis.set_frame_dim(150,150);
+        m_image1bis.set_pic_name("Tamere3bis.bmp");
+    }
+
+
+     if (m_bouton4.clicked())
+    {
+        m_top_box.add_child(m_bouton4bis);
+        m_bouton1bis.add_child(m_image4bis);
+        m_bouton1bis.set_frame_pos(10,210);
+        m_bouton1bis.set_frame_dim(150,150);
+        m_image1bis.set_pic_name("Tamere4bis.bmp");
+    }
+
+
+
+
 
     /// Ici on montre la récupération de la valeur booléenne du check box en bas à gauche
     /// pour décider d'animer ou pas le widget d'image au centre

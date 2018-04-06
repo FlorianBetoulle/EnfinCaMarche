@@ -102,3 +102,56 @@
 1522963646 source:c:\users\florian betoulle\desktop\05_4.2\flomodiflenu\graph_lib_exemple_test\test.cpp
 	"test.h"
 
+1523011014 source:c:\users\melmelouzz\desktop\ntr\enfincamarche\grman\coords.cpp
+	"coords.h"
+
+1523011014 c:\users\melmelouzz\desktop\ntr\enfincamarche\grman\coords.h
+	<cmath>
+
+1523011014 source:c:\users\melmelouzz\desktop\ntr\enfincamarche\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1523011014 c:\users\melmelouzz\desktop\ntr\enfincamarche\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1523011014 c:\users\melmelouzz\desktop\ntr\enfincamarche\grman\grman_couleurs.h
+
+1523011014 c:\users\melmelouzz\desktop\ntr\enfincamarche\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1523011014 source:c:\users\melmelouzz\desktop\ntr\enfincamarche\grman\widget.cpp
+	"widget.h"
+
+1523011014 source:c:\users\melmelouzz\desktop\ntr\enfincamarche\main.cpp
+	"grman/grman.h"
+	<iostream>
+	"test.h"
+
+1523012739 c:\users\melmelouzz\desktop\ntr\enfincamarche\test.h
+	"grman/grman.h"
+	<iostream>
+	<stack>
+
+1523012910 source:c:\users\melmelouzz\desktop\ntr\enfincamarche\test.cpp
+	"test.h"
+
