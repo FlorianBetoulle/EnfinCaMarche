@@ -142,7 +142,7 @@ void Thing::update()
     {
         m_top_box.add_child(m_bouton1bis);
         m_bouton1bis.add_child(m_image1bis);
-        m_bouton1bis.set_frame_pos(10,210);
+        m_bouton1bis.set_frame_pos(10,10);
         m_bouton1bis.set_frame_dim(150,150);
         m_image1bis.set_pic_name("Tamere1bis.bmp");
     }
@@ -156,11 +156,11 @@ void Thing::update()
         m_image1bis.set_pic_name("Tamere2bis.bmp");
     }
 
- if (m_bouton3.clicked())
+    if (m_bouton3.clicked())
     {
         m_top_box.add_child(m_bouton3bis);
         m_bouton1bis.add_child(m_image3bis);
-        m_bouton1bis.set_frame_pos(10,210);
+        m_bouton1bis.set_frame_pos(10,410);
         m_bouton1bis.set_frame_dim(150,150);
         m_image1bis.set_pic_name("Tamere3bis.bmp");
     }
@@ -170,7 +170,7 @@ void Thing::update()
     {
         m_top_box.add_child(m_bouton4bis);
         m_bouton1bis.add_child(m_image4bis);
-        m_bouton1bis.set_frame_pos(10,210);
+        m_bouton1bis.set_frame_pos(10,610);
         m_bouton1bis.set_frame_dim(150,150);
         m_image1bis.set_pic_name("Tamere4bis.bmp");
     }
