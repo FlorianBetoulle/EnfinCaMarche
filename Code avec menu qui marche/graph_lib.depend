@@ -1,0 +1,286 @@
+# depslib dependency file v1.0
+1523022212 source:c:\users\admininge\desktop\projet-piscine\graph_lib_exemple_graph\graph.cpp
+	"graph.h"
+	<sstream>
+	<fstream>
+
+1523016266 c:\users\admininge\desktop\projet-piscine\graph_lib_exemple_graph\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1522858239 c:\users\admininge\desktop\projet-piscine\graph_lib_exemple_graph\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1522840656 c:\users\admininge\desktop\projet-piscine\graph_lib_exemple_graph\grman\grman_couleurs.h
+
+1522840656 c:\users\admininge\desktop\projet-piscine\graph_lib_exemple_graph\grman\coords.h
+	<cmath>
+
+1522840656 c:\users\admininge\desktop\projet-piscine\graph_lib_exemple_graph\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1522840656 source:c:\users\admininge\desktop\projet-piscine\graph_lib_exemple_graph\grman\coords.cpp
+	"coords.h"
+
+1522929673 source:c:\users\admininge\desktop\projet-piscine\graph_lib_exemple_graph\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522840656 source:c:\users\admininge\desktop\projet-piscine\graph_lib_exemple_graph\grman\widget.cpp
+	"widget.h"
+
+1522970972 source:c:\users\admininge\desktop\projet-piscine\graph_lib_exemple_graph\main.cpp
+	"grman/grman.h"
+	<iostream>
+	"graph.h"
+
+1523022214 source:d:\axelgraphe\graph_lib_exemple_graph\graph.cpp
+	"graph.h"
+	<sstream>
+	<fstream>
+
+1523016268 d:\axelgraphe\graph_lib_exemple_graph\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1522858240 d:\axelgraphe\graph_lib_exemple_graph\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1522840658 d:\axelgraphe\graph_lib_exemple_graph\grman\grman_couleurs.h
+
+1522840658 d:\axelgraphe\graph_lib_exemple_graph\grman\coords.h
+	<cmath>
+
+1522840658 d:\axelgraphe\graph_lib_exemple_graph\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1522840658 source:d:\axelgraphe\graph_lib_exemple_graph\grman\coords.cpp
+	"coords.h"
+
+1522929674 source:d:\axelgraphe\graph_lib_exemple_graph\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522840658 source:d:\axelgraphe\graph_lib_exemple_graph\grman\widget.cpp
+	"widget.h"
+
+1522970974 source:d:\axelgraphe\graph_lib_exemple_graph\main.cpp
+	"grman/grman.h"
+	<iostream>
+	"graph.h"
+
+1523032489 source:c:\users\florian betoulle\documents\enfincamarchedebase\graph_lib_exemple_graph\graph.cpp
+	"graph.h"
+	<sstream>
+	<fstream>
+
+1523039962 c:\users\florian betoulle\documents\enfincamarchedebase\graph_lib_exemple_graph\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1522858240 c:\users\florian betoulle\documents\enfincamarchedebase\graph_lib_exemple_graph\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1522840658 c:\users\florian betoulle\documents\enfincamarchedebase\graph_lib_exemple_graph\grman\grman_couleurs.h
+
+1522840658 c:\users\florian betoulle\documents\enfincamarchedebase\graph_lib_exemple_graph\grman\coords.h
+	<cmath>
+
+1522840658 c:\users\florian betoulle\documents\enfincamarchedebase\graph_lib_exemple_graph\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1522840658 source:c:\users\florian betoulle\documents\enfincamarchedebase\graph_lib_exemple_graph\grman\coords.cpp
+	"coords.h"
+
+1522929674 source:c:\users\florian betoulle\documents\enfincamarchedebase\graph_lib_exemple_graph\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522840658 source:c:\users\florian betoulle\documents\enfincamarchedebase\graph_lib_exemple_graph\grman\widget.cpp
+	"widget.h"
+
+1523027384 source:c:\users\florian betoulle\documents\enfincamarchedebase\graph_lib_exemple_graph\main.cpp
+	"grman/grman.h"
+	<iostream>
+	"graph.h"
+
+1523101387 source:c:\users\melmelouzz\desktop\graph_lib_exemple_graph\graph.cpp
+	"graph.h"
+	<sstream>
+	<fstream>
+
+1523100345 c:\users\melmelouzz\desktop\graph_lib_exemple_graph\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1523098880 c:\users\melmelouzz\desktop\graph_lib_exemple_graph\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1523098880 c:\users\melmelouzz\desktop\graph_lib_exemple_graph\grman\grman_couleurs.h
+
+1523098880 c:\users\melmelouzz\desktop\graph_lib_exemple_graph\grman\coords.h
+	<cmath>
+
+1523098880 c:\users\melmelouzz\desktop\graph_lib_exemple_graph\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1523098880 source:c:\users\melmelouzz\desktop\graph_lib_exemple_graph\grman\coords.cpp
+	"coords.h"
+
+1523098880 source:c:\users\melmelouzz\desktop\graph_lib_exemple_graph\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1523098880 source:c:\users\melmelouzz\desktop\graph_lib_exemple_graph\grman\widget.cpp
+	"widget.h"
+
+1523100149 source:c:\users\melmelouzz\desktop\graph_lib_exemple_graph\main.cpp
+	"grman/grman.h"
+	<iostream>
+	"graph.h"
+
+1523101387 source:c:\users\melmelouzz\desktop\enfincamarche\code avec menu qui marche\graph.cpp
+	"graph.h"
+	<sstream>
+	<fstream>
+
+1523100345 c:\users\melmelouzz\desktop\enfincamarche\code avec menu qui marche\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1523098880 c:\users\melmelouzz\desktop\enfincamarche\code avec menu qui marche\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1523098880 c:\users\melmelouzz\desktop\enfincamarche\code avec menu qui marche\grman\grman_couleurs.h
+
+1523098880 c:\users\melmelouzz\desktop\enfincamarche\code avec menu qui marche\grman\coords.h
+	<cmath>
+
+1523098880 c:\users\melmelouzz\desktop\enfincamarche\code avec menu qui marche\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1523098880 source:c:\users\melmelouzz\desktop\enfincamarche\code avec menu qui marche\grman\coords.cpp
+	"coords.h"
+
+1523098880 source:c:\users\melmelouzz\desktop\enfincamarche\code avec menu qui marche\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1523098880 source:c:\users\melmelouzz\desktop\enfincamarche\code avec menu qui marche\grman\widget.cpp
+	"widget.h"
+
+1523100149 source:c:\users\melmelouzz\desktop\enfincamarche\code avec menu qui marche\main.cpp
+	"grman/grman.h"
+	<iostream>
+	"graph.h"
+
