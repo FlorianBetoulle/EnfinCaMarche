@@ -11,12 +11,13 @@ int main()
     /// Le nom du répertoire où se trouvent les images à charger
     grman::set_pictures_path("pics");
 
-        GraphInterface *interface=nullptr;
+    GraphInterface *interface=nullptr;
 
 
     /// Un exemple de graphe
     Graph g;
     g.make_example();
+    int x, t= 0;
 
 
 
@@ -32,11 +33,11 @@ int main()
         /// Mise à jour générale (clavier/souris/buffer etc...)
         grman::mettre_a_jour();
 
+
+
+    //g.evolution();
+
     }
-
-    g.sauverFichier();
-
-
     grman::fermer_allegro();
 
     return 0;
